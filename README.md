@@ -25,7 +25,3 @@ Working through these projects has improved my ability to evaluate trade-offs be
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**  
 I now write clearer code with better structure, comments, and naming conventions, making it easier to maintain and expand. I’m more comfortable breaking larger tasks into smaller functions and using classes to organize logic cleanly.
-
----
-
-✅ *This repository is shared with my instructor as a collaborator.*
